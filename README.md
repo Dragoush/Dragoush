@@ -14,5 +14,11 @@ I'm a Computer Science student at Babeș-Bolyai University, interested in backen
 
 ## Technologies
 
-Java, Python, C, C#, C++, JavaScript, Rust, React, FastAPI,SQL, PostgreSQL, Docker, Git
+Java, Python, C, C#, C++, JavaScript, Rust, React, FastAPI, SQL, PostgreSQL, Docker, Git
+
+## Academic & Team Projects
+
+Some university team projects and coursework were developed on my faculty GitHub account.
+
+- **Banking App** — university team project built with C#/.NET, featuring a WinUI desktop client, an ASP.NET web client, an ASP.NET Core API and a SQL Server-backed banking features.
 
