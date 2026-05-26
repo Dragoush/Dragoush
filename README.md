@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dragos
 
-<!--
-**Dragoush/Dragoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Babeș-Bolyai University, interested in backend development, full-stack applications, and systems programming.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Recipe Vault - full-stack recipe manager built with React, FastAPI, PostgreSQL, Docker, SQLAlchemy, and Alembic.
+- Toy Language Interpreter - Java/JavaFX interpreter with type checking, heap memory, file operations, and concurrency.
+- Face Recognition Python - small Python/OpenCV project for experimenting with face detection and recognition.
+
+## Technologies
+
+Java, Python, C, C#, C++, JavaScript, Rust,React, FastAPI,SQL, PostgreSQL, Docker, Git
