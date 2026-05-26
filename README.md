@@ -2,6 +2,10 @@
 
 I'm a Computer Science student at Babeș-Bolyai University, interested in backend development, full-stack applications, and systems programming.
 
+## Currently learning
+
+- Networking in Rust
+
 ## Projects
 
 - Recipe Vault - full-stack recipe manager built with React, FastAPI, PostgreSQL, Docker, SQLAlchemy, and Alembic.
@@ -10,4 +14,5 @@ I'm a Computer Science student at Babeș-Bolyai University, interested in backen
 
 ## Technologies
 
-Java, Python, C, C#, C++, JavaScript, Rust,React, FastAPI,SQL, PostgreSQL, Docker, Git
+Java, Python, C, C#, C++, JavaScript, Rust, React, FastAPI,SQL, PostgreSQL, Docker, Git
+
