@@ -21,4 +21,4 @@ Java, Python, C, C#, C++, JavaScript, Rust, React, FastAPI, SQL, PostgreSQL, Doc
 Some university team projects and coursework were developed on my faculty GitHub account.
 
 - **Banking App** — university team project built with C#/.NET, featuring a WinUI desktop client, an ASP.NET web client, an ASP.NET Core API and a SQL Server-backed banking features.
-
+- Repository: https://github.com/dragoshategangheorghe/UBB-SE-2026-924-1
